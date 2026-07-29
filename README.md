@@ -6,6 +6,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Futsch1/medTimer/badge)](https://scorecard.dev/viewer/?uri=github.com/Futsch1/medTimer)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9439/badge)](https://www.bestpractices.dev/projects/9439)
 
+
 # MedTimer for Android
 
 ![Feature Graphic](fastlane/metadata/android/en-US/images/featureGraphic.png)
