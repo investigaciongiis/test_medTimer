@@ -1,0 +1,33 @@
+{
+  "app_metadata": {
+    "Name": "medTimer",
+    "Developer": "medTimer",
+    "Category": "Mobile Health (mHealth) / EMR Client",
+    "Supported platforms": "Android (SDK 19-33+)",
+    "Version": "1.24.6",
+    "Last update": "29/07/2026",
+    "Compatible idioms": "English",
+    "Source": "Open source",
+    "License": "MIT",
+    "Main language": "Java + Kotlin + XML + Groovy"
+  },
+  "actors": {
+    "Auditor": "Juan José López Jiménez",
+    "Requirement Engineering team": [
+      "Carlos M. Mejía-Granda",
+      "José L Fernández-Alemán",
+      "Juan Manuel Carrillo-de-Gea",
+      "Joaquín Nicolás",
+      "Juan José López Jiménez"
+    ],
+    "Engineering Group (EN)": [
+      "Carlos M. Mejía-Granda",
+      "José L Fernández-Alemán",
+      "Juan Manuel Carrillo-de-Gea",
+      "Joaquín Nicolás",
+      "Juan José López Jiménez"
+    ]
+  },
+  "header_text": "medTimer v1.24.6",
+  "cover_page_text": "medTimer - v1.24.6"
+}
